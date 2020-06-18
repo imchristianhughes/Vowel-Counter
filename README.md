@@ -1,2 +1,2 @@
 # vowel_counter
-Vowel Counter
+This will count the number of vowels in a given string.
